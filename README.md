@@ -14,8 +14,9 @@ Use Python to clean missing values, convert data types and standardize numerical
 Use visualization tools such as Matplotlib and Seaborn to create box plots, histograms and conduct exploratory analysis to determine the relationship between Google Apps Ratings and predictive features: User reviews, Size, Number of installs, Price，Category, and so on.
 
 【Model Analysis】
-LightGBM Accuracy： 52%
-Catboost Accuracy： 
+LightGBM Accuracy：
+Random Forest Accuracy：
+SVM Accuracy:
 
 【NLP part】
 Still Working......
