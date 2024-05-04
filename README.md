@@ -11,7 +11,7 @@ This project analyzes the Android market based on 10,000+ Google Play App data a
 Use Python to clean missing values, convert data types and standardize numerical features. Use DBSCAN to detect outliers and remove them.
 
 【Data Visualization】: 
-Use visualization tools such as Matplotlib and Seaborn to create box plots, histograms and conduct exploratory analysis to determine the relationship between Google Apps Ratings and predictive features: User reviews, Size, Number of installs, Price，Category, and so on.
+Use visualization tools such as Matplotlib and Seaborn to create box plots, histograms and conduct exploratory analysis to determine the relationship between Google Apps Ratings and predictive features: User reviews, Size, Number of installs, Price, Category, and so on.
 
 【Model Analysis】
 LightGBM Accuracy：
