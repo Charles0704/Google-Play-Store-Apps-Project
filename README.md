@@ -18,8 +18,5 @@ LightGBM Accuracy：
 Random Forest Accuracy：
 SVM Accuracy:
 
-【NLP part】
-Still Working......
-
 Dataset： Google Play Store Apps Dataset
 Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
