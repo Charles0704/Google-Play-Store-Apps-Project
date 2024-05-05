@@ -1,4 +1,4 @@
-# ESE-527 Capstone Project:
+# $ESE-527 Capstone Project:$
 
 ### Title：Machine Learning Approaches Towards Google Play Store Apps
 
