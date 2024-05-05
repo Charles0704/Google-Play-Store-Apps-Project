@@ -2,7 +2,7 @@
 
 ### Title：Machine Learning Approaches Towards Google Play Store Apps
 
-###Team Member: Chuxuan He, Haipeng Zhao
+### Team Member: Chuxuan He, Haipeng Zhao
 
  $[Project Background]:$
 
