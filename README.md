@@ -17,12 +17,12 @@ Use visualization tools such as Matplotlib and Seaborn to create box plots, hist
 
 ### $[Model Analysis]:$  
 
-Logistic Regression Accuracy:  
+Logistic Regression 
 
-LightGBM Accuracy：  
+LightGBM 
 
-Random Forest Accuracy：  
+Random Forest 
 
 
-Dataset： Google Play Store Apps Dataset
+### $Dataset：Google Play Store Apps Dataset$
 Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
