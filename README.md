@@ -1,6 +1,6 @@
-# $ESE-527 Capstone Project:$
+# ESE-527 Capstone Project:
 
-### Title：Machine Learning Approaches Towards Google Play Store Apps
+## Title：Machine Learning Approaches Towards Google Play Store Apps
 
 ### Team Member: Chuxuan He, Haipeng Zhao
 
