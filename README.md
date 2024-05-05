@@ -1,10 +1,10 @@
-ESE-527 Capstone Project:
+# ESE-527 Capstone Project:
 
-Title：Machine Learning Approaches Towards Google Play Store Apps
+### Title：Machine Learning Approaches Towards Google Play Store Apps
 
-Team Member: Chuxuan He, Haipeng Zhao
+###Team Member: Chuxuan He, Haipeng Zhao
 
-## $[Project Background]:$
+ $[Project Background]:$
 
 This project analyzes the Android market based on 10,000+ Google Play App data and 60,000+ customer review data provided by Kaggle, and provides decision-making suggestions to Android App developers to improve the quality of the user experience.
 
