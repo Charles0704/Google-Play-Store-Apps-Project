@@ -8,7 +8,7 @@
 
 This project analyzes the Android market based on 10,000+ Google Play App data and 60,000+ customer review data provided by Kaggle, and provides decision-making suggestions to Android App developers to improve the quality of the user experience.
 
-### $[Data Processing and Feature Engineering]:$   
+### $[Data  Processing  and  Feature  Engineering]:$   
 
 Use Python to clean missing values, convert data types and standardize numerical features. Use DBSCAN, Isolated forest, KNN to detect outliers and remove them.
 
