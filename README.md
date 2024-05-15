@@ -17,11 +17,11 @@ Use visualization tools such as Matplotlib and Seaborn to create box plots, hist
 
 ### $[Model$ $Analysis]:$  
 
-Logistic Regression 
+XGBoost
 
 LightGBM 
 
-Random Forest 
+Catboost 
 
 
 ### $Dataset $ 
