@@ -20,17 +20,23 @@ Precision: 0.699
 Recall: 0.716  
 F1 Score: 0.687   
 
+![XGB](https://github.com/user-attachments/assets/1568d2f6-5b57-4137-88c7-b8b9c956534e)
+
 LightGBM：   
 Accuracy: 0.707  
 Precision: 0.679  
 Recall: 0.707  
 F1 Score: 0.677  
 
+![LGBM](https://github.com/user-attachments/assets/f4460cd3-fcfe-464e-b598-25efee22ad5d)
+
 Catboost:   
 Accuracy: 0.717  
 Precision: 0.692  
 Recall: 0.717  
 F1 Score: 0.685  
+
+![Catboost](https://github.com/user-attachments/assets/f320f8b1-6ccd-40e9-88e7-082ced53155e)
 
 ### $[Dataset]: $ 
 Google Play Store Apps Dataset
