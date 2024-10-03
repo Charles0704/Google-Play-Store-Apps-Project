@@ -15,22 +15,22 @@ Use visualization tools such as Matplotlib and Seaborn to create box plots, hist
 ## $[Model$ $Analysis]:$  
 
 XGBoost:   
-Accuracy: 0.7161246612466124  
-Precision: 0.6986163771058592  
-Recall: 0.7161246612466124  
-F1 Score: 0.6873647586010466  
+Accuracy: 0.716
+Precision: 0.699
+Recall: 0.716
+F1 Score: 0.687 
 
 LightGBM：   
-Accuracy: 0.7073170731707317  
-Precision: 0.6787360283182414  
-Recall: 0.7073170731707317  
-F1 Score: 0.6772317670797979  
+Accuracy: 0.707
+Precision: 0.679
+Recall: 0.707
+F1 Score: 0.677
 
 Catboost:   
-Accuracy: 0.717479674796748  
-Precision: 0.6918559839606064  
-Recall: 0.717479674796748  
-F1 Score: 0.6849244999049675  
+Accuracy: 0.717
+Precision: 0.692
+Recall: 0.717
+F1 Score: 0.685
 
 ### $[Dataset]: $ 
 Google Play Store Apps Dataset
