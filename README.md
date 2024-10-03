@@ -15,10 +15,10 @@ Use visualization tools such as Matplotlib and Seaborn to create box plots, hist
 ## $[Model$ $Analysis]:$  
 
 XGBoost: 
-Accuracy: 0.7161246612466124
-Precision: 0.6986163771058592
-Recall: 0.7161246612466124
-F1 Score: 0.6873647586010466
+Accuracy: 0.7161246612466124  
+Precision: 0.6986163771058592  
+Recall: 0.7161246612466124  
+F1 Score: 0.6873647586010466  
 
 LightGBM：
 Accuracy: 0.7073170731707317
