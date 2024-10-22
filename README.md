@@ -1,4 +1,4 @@
-# Machine Learning Approaches Towards Google Play Store Apps:
+# Capstone project: Machine Learning Approaches Towards Google Play Store Apps
 
 ## $[Project$ $Background]:$
 
