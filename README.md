@@ -12,7 +12,7 @@ Use DBSCAN, Isolated Forest for outlier detection and removal.
 ## Data Visualization: 
 Use visualization tools such as Matplotlib and Seaborn to create box plots, histograms and conduct exploratory analysis to determine the relationship between Google Apps Ratings and predictive features: User reviews, Size, Number of installs, Price, Category, and so on.
 
-## Model Analysis:  
+## Model Analysis Result:  
 
 ### XGBoost:   
 Accuracy: 0.716  
