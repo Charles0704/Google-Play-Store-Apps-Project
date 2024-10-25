@@ -38,6 +38,8 @@ F1 Score: 0.685
 
 ![Catboost](https://github.com/user-attachments/assets/f320f8b1-6ccd-40e9-88e7-082ced53155e)
 
+## $[NLP part]:$   
+
 ### $[Dataset]: $ 
 Google Play Store Apps Dataset
 Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
