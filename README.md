@@ -4,6 +4,8 @@
 This repository contains the capstone project of ESE527, which analyzes 10,000+ Google Play apps info information data and 60,000+ customer reviews from Kaggle, offering strategic insights for Android developers to enhance user experience quality. In this project, We apply **XGBoost**, **LightGBM**, and **CatBoost** to Google-play-store-apps dataset to classify and predict the rating level of different Apps. We also apply **Bert**(Bidirectional encoder representations from transformers) model to conduct sentiment analysis on customer reviews.  
 Dataset Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
+"ssdasd"
+
 ## Data Processing and Feature Engineering: 
 
 Utilized Python (Pandas) for data cleaning, including handling missing values, data type conversion, numerical feature standardization, and categorical encoding. Applied DBSCAN and Isolation Forest for outlier detection and removal.
