@@ -2,11 +2,12 @@
 
 ## Project Background:
 
-This project analyzes the Android market based on 10,000+ Google Play App data and 60,000+ customer review data provided by Kaggle, and provides decision-making suggestions to Android App developers to improve the quality of the user experience.
+This project analyzes over 10,000 Google Play apps and 60,000 customer reviews from Kaggle data, offering strategic insights for Android developers to enhance user experience quality  
+Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ## Data Processing and Feature Engineering: 
 
-Use Python(Pandas) to clean missing values, convert data types and standardize numerical features.  
+Use Python(Pandas) to clean missing values, convert data types, standardize numerical features and encode categorical features.  
 Use DBSCAN, Isolated Forest for outlier detection and removal.
 
 ## Data Visualization: 
@@ -35,7 +36,3 @@ F1 Score: 0.685
 ## NLP part:   
 ![output](https://github.com/user-attachments/assets/1d64fd2b-185c-4157-82e6-3ca69ed9bf2e)
 
-
-### $[Dataset]: $ 
-Google Play Store Apps Dataset
-Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
