@@ -3,7 +3,7 @@
 ## Project Background:
 
 This project analyzes over 10,000 Google Play apps and 60,000 customer reviews from Kaggle data, offering strategic insights for Android developers to enhance user experience quality  
-Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
+Dataset Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ## Data Processing and Feature Engineering: 
 
