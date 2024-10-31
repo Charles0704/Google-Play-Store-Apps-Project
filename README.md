@@ -7,11 +7,10 @@ Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ## Data Processing and Feature Engineering: 
 
-Use Python(Pandas) to clean missing values, convert data types, standardize numerical features and encode categorical features.  
-Use DBSCAN, Isolated Forest for outlier detection and removal.
+Utilized Python (Pandas) for data cleaning, including handling missing values, data type conversion, numerical feature standardization, and categorical encoding. Applied DBSCAN and Isolation Forest for outlier detection and removal.
 
 ## Data Visualization: 
-Use visualization tools such as Matplotlib and Seaborn to create box plots, histograms and conduct exploratory analysis to determine the relationship between Google Apps Ratings and predictive features: User reviews, Size, Number of installs, Price, Category, and so on.
+Leveraged Matplotlib and Seaborn for data visualization, creating box plots, histograms, and conducting exploratory analysis to examine relationships between Google App ratings and predictive features such as user reviews, app size, install count, price, category, and more.
 
 ## Model Analysis Result:  
 
