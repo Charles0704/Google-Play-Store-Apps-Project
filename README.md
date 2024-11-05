@@ -42,6 +42,6 @@ Precision: 0.692
 Recall: 0.717  
 F1 Score: 0.685  
 
-## NLP part:   
+## Sentiment Analysis Part:   
 ![output](https://github.com/user-attachments/assets/1d64fd2b-185c-4157-82e6-3ca69ed9bf2e)
 
