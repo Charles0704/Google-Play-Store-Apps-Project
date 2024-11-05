@@ -9,16 +9,17 @@ Dataset Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
 ```PyTorch version:  2.4.1+cu124```  
 ```CUDA Version：12.5```
 
-
 ## Data Processing and Feature Engineering: 
 
-Utilized Python (Pandas) for data cleaning, including handling missing values, data type conversion, numerical feature standardization, and categorical encoding. Applied DBSCAN and Isolation Forest for outlier detection and removal.
+Utilized Python (Pandas) for data cleaning, including handling missing values, data type conversion, numerical feature standardization, and categorical encoding.  
+Applied DBSCAN and Isolation Forest for outlier detection and removal.
 
 ## Data Visualization: 
-Leveraged Matplotlib and Seaborn for data visualization, creating box plots, histograms, and conducting exploratory analysis to examine relationships between Google App ratings and predictive features such as user reviews, app size, install count, price, category, and more.
+Leveraged Matplotlib and Seaborn for data visualization, creating box plots, histograms, Heatmap, and conducting exploratory analysis to examine relationships between Google App ratings and predictive features such as user reviews, app size, install count, price, category, and more.
+![output](https://github.com/user-attachments/assets/cbc1a1c0-1ba4-4ab7-bfc5-cbc7d52c643d)
+
 
 ## Model Analysis Result:  
-
 ### XGBoost:   
 Accuracy: 0.716  
 Precision: 0.699  
