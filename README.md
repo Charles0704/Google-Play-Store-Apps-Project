@@ -15,9 +15,9 @@ Dataset Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 Data Processing： Utilized Python (Pandas) for data cleaning, including handling missing values, data type conversion, numerical feature standardization, and categorical encoding.  
 Feature Engineering：We categorize Rating into 3 class：  
-If Rating$\in$[1,4)   ---> 0  
-If Rating$\in$[4,4.5) ---> 1  
-If Rating$\in$[4.5,5] ---> 2  
+If Rating $\in$[1,4)   ---> 0  
+If Rating $\in$[4,4.5) ---> 1  
+If Rating $\in$[4.5,5] ---> 2  
 Outlier Removal: Applied DBSCAN and Isolation Forest for outlier detection and removal.
 
 
