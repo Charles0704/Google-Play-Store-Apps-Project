@@ -17,8 +17,8 @@ Applied DBSCAN and Isolation Forest for outlier detection and removal.
 ## Data Visualization: 
 Leveraged Matplotlib and Seaborn for data visualization, creating box plots, histograms, Heatmap, and conducting exploratory analysis to examine relationships between Google App ratings and predictive features such as user reviews, app size, install count, price, category, and more.
 
-![output](https://github.com/user-attachments/assets/27d94203-0d10-49c3-a858-e8aeb9a0428b)
-<img src="C:\Users\Chuxu\Desktop\output" height="240px" width="160px" />
+
+<img src="C:\Users\Chuxu\Desktop\output" height="150px" width="240px"/>
 
 
 
