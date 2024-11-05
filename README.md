@@ -13,8 +13,13 @@ Dataset Link：https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ## Data Processing and Feature Engineering: 
 
-Utilized Python (Pandas) for data cleaning, including handling missing values, data type conversion, numerical feature standardization, and categorical encoding.  
+Data Processing： Utilized Python (Pandas) for data cleaning, including handling missing values, data type conversion, numerical feature standardization, and categorical encoding.  
+
+Feature Engineering：We categorize Rating into 3 class：  
+If Rating $\in$ [1,3]
+
 Applied DBSCAN and Isolation Forest for outlier detection and removal.
+
 
 ## Data Visualization: 
 Leveraged Matplotlib and Seaborn for data visualization, creating box plots, histograms, Heatmap, and conducting exploratory analysis to examine relationships between Google App ratings and predictive features such as user reviews, app size, install count, price, category, and more.
