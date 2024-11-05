@@ -18,6 +18,7 @@ Feature Engineering：We categorize Rating into 3 class：
 If Rating $\in$[1,4)   ---> 0  
 If Rating $\in$[4,4.5) ---> 1  
 If Rating $\in$[4.5,5] ---> 2  
+Use One-hot Encoding to convert categorical features(Category, Content Rating, Genres, Type) into numerical features  
 Outlier Removal: Applied DBSCAN and Isolation Forest for outlier detection and removal.
 
 
