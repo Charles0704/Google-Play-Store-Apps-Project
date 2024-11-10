@@ -47,5 +47,6 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 
 
 ## Sentiment Analysis Part:   
-![output](https://github.com/user-attachments/assets/1d64fd2b-185c-4157-82e6-3ca69ed9bf2e)
+![Figure_1](https://github.com/user-attachments/assets/0555dc60-2d46-4597-ad9f-dc90186b1ec0)
+
 
