@@ -47,7 +47,7 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 
 
 ## Sentiment Analysis Part:   
-#### Here, I choose 10000 lines of customer reviews as a sample and extract statements with sentence length largeer than 30, then I divide the samples into training and testing sets
+Here, I choose 10000 lines of customer reviews as a sample and extract statements with sentence length largeer than 30, then I divide the samples into training and testing sets
 ![Figure_1](https://github.com/user-attachments/assets/0555dc60-2d46-4597-ad9f-dc90186b1ec0)
 
 
