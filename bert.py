@@ -144,11 +144,11 @@ def main(args):
             torch.save(net.state_dict(), 'bert.parameters')
 
  
-    plt.plot(np.linspace(0,15,15), Train_acc, "ro-", label="train acc") 
-    plt.plot(np.linspace(0,15,15), Test_acc, "bs-", label="test acc")
+    plt.plot(np.linspace(0,15,15), Train_acc, "ro-", label="Train Accuracy") 
+    plt.plot(np.linspace(0,15,15), Test_acc, "bs-", label="Test Accuracy")
     plt.legend()
     plt.xlabel("Epoch")
-    plt.ylabel("Acc")
+    plt.ylabel("Accuracy")
     plt.title("Bert")
     plt.show()
 
@@ -157,13 +157,13 @@ if __name__ == '__main__':  ### 判断当前的运行环境是否是直接运行
     # data param
     parser.add_argument('--csv_save_dir', type=str, help="dir to csv for training",default=os.path.join("ESE527", "googleplaystore_user_reviews.csv"))
     # model param
-    parser.add_argument('--row_number', type=int, default=10000)
-    parser.add_argument('--sentence_len', type=float, default=30)
+    parser.add_argument('--row_number', type=int, default=10000) #提取一万行数据
+    parser.add_argument('--sentence_len', type=float, default=30)#选择长度大于30的句子
     parser.add_argument('--device', type=str, default=torch.device("cuda" if torch.cuda.is_available() else "cpu"))
-    parser.add_argument('--output_dim', type=int, default=3)   #输出类别
-    parser.add_argument('--batch_size', type=int, default=8) #训练批次
-    parser.add_argument('--epochs', type=int, default=15)
-    parser.add_argument('--lr', type=float, default=1e-4)
+    parser.add_argument('--output_dim', type=int, default=3)     #输出类别
+    parser.add_argument('--batch_size', type=int, default=8)     #训练批次
+    parser.add_argument('--epochs', type=int, default=15)        #遍历次数
+    parser.add_argument('--lr', type=float, default=1e-4)        #学习率
     opt = parser.parse_args()
     main(opt)
 
