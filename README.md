@@ -50,7 +50,7 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 
 We choose 10000 lines of customer reviews as a sample and extract reviews with sentence length largeer than 30, then we divide the samples into training and testing sets.  
 
-Here is the result of Bert:
+Here is the result of Bert with 20 epochs:
 
 ![Figure_1](https://github.com/user-attachments/assets/7a6397d9-7912-4718-a4c7-e9aaaf253d70)
 
