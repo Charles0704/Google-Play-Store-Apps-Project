@@ -18,7 +18,7 @@ Utilized Python (Pandas) for data cleaning, including handling missing values, d
 
 #### Feature Engineering：  
 
-1.We categorize Rating into 3 class：  
+1.We categorize Rating into 2 class：  
 If Rating $\in$[1, 4)   ---> 0  
 If Rating $\in$[4, 5)   ---> 1  
 
