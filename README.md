@@ -35,7 +35,7 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 <img src=https://github.com/user-attachments/assets/e3c7c857-cf4b-4b5b-952f-5769f177ccc7 height="400px" width="800px"/>
 
 
-## Model Analysis Result:(Still Working...)  
+## Model Analysis Result:
 #### XGBoost:   
 
 
@@ -50,6 +50,8 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 We choose 10000 lines of customer reviews as a sample and extract reviews with sentence length largeer than 30, then we divide the samples into training and testing sets.  
 
 Here is the result of Bert with 20 epochs:
+![6bbd9d4c8b85a99dc3840f65e6d3976](https://github.com/user-attachments/assets/a14fd662-0664-47d4-86b0-fd9e18959af0)
+
 
 ![Figure_1](https://github.com/user-attachments/assets/7a6397d9-7912-4718-a4c7-e9aaaf253d70)
 
