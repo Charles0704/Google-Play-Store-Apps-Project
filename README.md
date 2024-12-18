@@ -31,22 +31,18 @@ Applied DBSCAN and Isolation Forest for outlier detection and removal.
 ## Data Visualization: 
 Leveraged Matplotlib and Seaborn for data visualization, creating box plots, histograms, Heatmap, and conducting exploratory analysis to examine relationships between Google App ratings and predictive features such as user reviews, app size, install count, price, category, and more.
 
-
 <img src=https://github.com/user-attachments/assets/e3c7c857-cf4b-4b5b-952f-5769f177ccc7 height="400px" width="800px"/>
-
 
 ## Model Analysis Result:
 #### XGBoost:   
-<img src=https://github.com/user-attachments/assets/142520af-f8ef-4960-82c7-5ae0fa1ad377  height="300px" width="300px"/>
-
+<img src = https://github.com/user-attachments/assets/142520af-f8ef-4960-82c7-5ae0fa1ad377  height="300px" width="300px"/>
 
 #### LightGBM：   
-![c005f66b41a70503de4063e7602714a](https://github.com/user-attachments/assets/a336dfb1-27b3-45d7-8795-460320b5ebaf)
-
+<img src = https://github.com/user-attachments/assets/9d8393c1-285f-4ee3-8655-3142261db842  height="300px" width="300px"/>
 
 #### Catboost:   
-![ae2a7d4122687be3887824da03035d6](https://github.com/user-attachments/assets/59393b85-9db4-43f3-8e26-cd1a19060c54)
 
+<img src = https://github.com/user-attachments/assets/fbeaa8a9-cdf1-4053-ac8f-8c0be37cd11e  height="300px" width="300px"/>
 
 ## Sentiment Analysis Part:   
 
