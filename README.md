@@ -37,12 +37,15 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 
 ## Model Analysis Result:
 #### XGBoost:   
+![24b83ae39b6d5ae23f99290c4017362](https://github.com/user-attachments/assets/5a067bc5-39e4-4970-88e4-6bd16a098aaa)
 
 
 #### LightGBM：   
+![c005f66b41a70503de4063e7602714a](https://github.com/user-attachments/assets/a336dfb1-27b3-45d7-8795-460320b5ebaf)
 
 
 #### Catboost:   
+![ae2a7d4122687be3887824da03035d6](https://github.com/user-attachments/assets/59393b85-9db4-43f3-8e26-cd1a19060c54)
 
 
 ## Sentiment Analysis Part:   
