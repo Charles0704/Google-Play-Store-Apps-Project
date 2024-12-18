@@ -37,7 +37,7 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 
 ## Model Analysis Result:
 #### XGBoost:   
-![24b83ae39b6d5ae23f99290c4017362](https://github.com/user-attachments/assets/5a067bc5-39e4-4970-88e4-6bd16a098aaa)
+<img src=https://github.com/user-attachments/assets/142520af-f8ef-4960-82c7-5ae0fa1ad377  height="300px" width="300px"/>
 
 
 #### LightGBM：   
