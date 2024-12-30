@@ -36,14 +36,17 @@ Leveraged Matplotlib and Seaborn for data visualization, creating box plots, his
 ## Model Analysis Result:
 #### XGBoost:  
 <img src = https://github.com/user-attachments/assets/142520af-f8ef-4960-82c7-5ae0fa1ad377  height="400px" width="400px"/>  
+
 Accuracy: 0.708  
 
 #### LightGBM：   
 <img src = https://github.com/user-attachments/assets/9d8393c1-285f-4ee3-8655-3142261db842  height="400px" width="400px"/>  
+
 Accuracy: 0.717
 
 #### Catboost:   
 <img src = https://github.com/user-attachments/assets/fbeaa8a9-cdf1-4053-ac8f-8c0be37cd11e  height="400px" width="400px"/>  
+
 Accuracy: 0.723
 
 ## Sentiment Analysis Part:   
