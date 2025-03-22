@@ -153,7 +153,7 @@ def main(args):
 if __name__ == '__main__':  ### 判断当前的运行环境是否是直接运行的主程序
     parser = argparse.ArgumentParser() #作用是用于解析命令行参数
     # data param
-    parser.add_argument('--csv_save_dir', type=str, help="dir to csv for training",default=os.path.join("ESE527", "googleplaystore_user_reviews.csv"))
+    parser.add_argument('--csv_save_dir', type=str, help="dir to csv for training",default=os.path.join("ESE527", "data\googleplaystore_user_reviews.csv"))
     parser.add_argument('--row_number', type=int, default=10000)   #提取10000条样本
     parser.add_argument('--sentence_len', type=float, default=30)  #筛选长度大于30的句子
     # model param
